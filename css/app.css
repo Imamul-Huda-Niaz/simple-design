@@ -1,0 +1,59 @@
+body{
+	margin: 0;
+	background-color: #f44336;
+}
+.Box{
+	background-color: #f44336;
+    color: white;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 80px; 65px;
+    border-radius: 25% 0;
+    border-radius:25% 0;
+    box-shadow: 20px 20px 60px #cf392e,
+               -20px -20px 60px #ff4d3e;
+}
+
+
+h1{}
+img{
+	max-width: 100%;
+	border: 10px #fcd206 dashed ;
+}
+p{ 
+
+fornt-size:22px
+line-height:1.5;
+
+.container{ 
+		width: 1200px;
+		margin: auto;
+		display: flex; 
+}
+.product{
+
+}
+green{
+
+}
+yellow{
+
+}
+
+
+
+
+
+
+
+button: hover{;
+	background: transparent;
+	color: #0bd148;
+}
+.product-Box{
+	box-shadow: 0 0 50px #33333336;
+	padding: 30px;
+	border-radius: 10px;
+
+}
